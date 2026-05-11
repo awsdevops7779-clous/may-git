@@ -1,5 +1,5 @@
 print("hello this is test flor git")
 
-print("hello this is test flor git1")
+print("today is scm poll test")
 
-print("hello this is test flor git2")
+
